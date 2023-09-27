@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nibafanfan
-- 👀 I’m interested in data science
+- 👀 I’m interested in data science & Machine Learning & AI
 - 🌱 I’m currently learning python, different math courses, like possibility and convexity
 - 💞️ I’m looking to collaborate on building some fun/applicable projects
 - 📫 How to reach me ...I can't decide yet. Maybe there is an inbox on github?
